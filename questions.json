@@ -1,5 +1,4 @@
 [
-    {"question": "What is the capital of France?", "options": ["Paris", "London", "Berlin", "Madrid"], "answer": "Paris"},
-    {"question": "What is 2 + 2?", "options": ["3", "4", "5", "6"], "answer": "4"},
-    {"question": "What is the largest planet?", "options": ["Mars", "Venus", "Jupiter", "Saturn"], "answer": "Jupiter"}
+   { "question": "ما اسم اللون Red باللغة العربية", "options": ["أحمر", "أخضر", "أزرق", "أصفر"], "correct": "أحمر", "fact": "Red هو أحد الألوان الأساسية" },
+   { "question": "ماذا نضع بعد كلمة I في جملة زمن المضارع المستمر", "options": ["am", "is", "are", "was"], "correct": "am", "fact": "I يأتي معها دائما am في المضارع المستمر" }
 ]
